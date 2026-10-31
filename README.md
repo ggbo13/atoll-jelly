@@ -37,6 +37,10 @@ node preview.mjs
 
 这是微缩景观中的近似水体与生物运动模拟。
 
+## 项目来源
+
+项目来源：Atoll Jelly 互动式 WebGPU 泻湖立体场景。
+
 ## 文件
 
 - `index.html`：完整互动场景，也是静态托管入口。
